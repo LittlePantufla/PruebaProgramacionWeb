@@ -11,4 +11,6 @@ al iniciar sesion sin algun usuario registrado desde el network el cual puede ac
 depues si crea un usuario e intenta iniciar sesion nuevamente, ingresara directamente al html admin el cual contine cookie-parse ademas de secciones de venta,
 3)El codigo tiene una encriptacion de clave ademas de un registro el cual se mostrara en la terminal del visual studio junto a su cookie la cual tiene una fecha 
 de expiro
+
+PS: estas instrucciones solo funcionan con el proyecto numero 3 ya que este es el completo 
 🤑🤑🤑🤑🤑🤑🙄🤣👍👍👍👍👌
