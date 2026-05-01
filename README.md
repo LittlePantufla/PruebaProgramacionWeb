@@ -16,6 +16,6 @@ Construir soluciones web modernas que integren una experiencia de usuario fluida
 * **Consumo de Estándares Web:** Uso de buenas prácticas de codificación para asegurar la compatibilidad y el rendimiento. 
 
 ---
-**Perfil:** Leandro Rojas Caro  
+**Perfil:** Leandro Rojas Caro & Joaquin Marti  
 **Institución:** Instituto Profesional Santo Tomás  
 **Certificación:** Programación Web
